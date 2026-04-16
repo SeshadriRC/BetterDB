@@ -126,6 +126,11 @@ Both connections are now registered in BetterDB.
 4. Leave the sample size at the default (or increase it)
 5. Click **"Analyze"**
 
+<img width="1339" height="652" alt="image" src="https://github.com/user-attachments/assets/d73d2d3d-b8d6-4d9b-8439-d41443118333" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/488f260c-1acd-43cd-a99d-7c3cf4fb4398" />
+
+
 ### What to Expect
 
 BetterDB scans the source keyspace and produces a compatibility report:
@@ -152,6 +157,14 @@ BetterDB scans the source keyspace and produces a compatibility report:
 1. After reviewing the analysis, click **"Execute"**
 2. Select **Command mode** (recommended for cross-protocol Redis-to-Valkey migrations)
 3. Click **Start**
+
+<img width="1916" height="855" alt="image" src="https://github.com/user-attachments/assets/fc3ad6c8-6509-4331-a837-9cbd7ffd73c8" />
+
+<img width="693" height="391" alt="image" src="https://github.com/user-attachments/assets/91cd6037-a822-4e52-afc6-7baa8d22bc67" />
+
+<img width="1626" height="478" alt="image" src="https://github.com/user-attachments/assets/2b182e54-7cfd-4dd4-a5fa-f8dc2cf6735b" />
+
+
 
 ### What Happens During Execution
 

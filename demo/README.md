@@ -193,11 +193,16 @@ Errors: 0
 | Sample spot-check | Random keys compared: type + binary-safe value match |
 | Baseline comparison | Target's ops/sec, memory, fragmentation vs. source pre-migration |
 
+<img width="1429" height="685" alt="image" src="https://github.com/user-attachments/assets/1ec49661-1432-4738-b006-355109a3c81e" />
+
+
 ### Expected Result
 
 **Validation: PASS**
 
 All key counts match. All sampled keys have matching types and values. TTLs preserved.
+
+<img width="1915" height="851" alt="image" src="https://github.com/user-attachments/assets/f7f8a579-d2dd-4d2a-8c24-9d3ea8c441c0" />
 
 ## Step 8: Manual Verification (Optional)
 

@@ -1,4 +1,4 @@
-[video-link](https://www.youtube.com/watch?v=7VjIFqvDs1Y)
+[youtube-video-link](https://www.youtube.com/watch?v=7VjIFqvDs1Y)
 
 # Redis to Valkey Migration with BetterDB
 

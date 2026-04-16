@@ -113,6 +113,11 @@ Both connections are now registered in BetterDB.
 
 > **Note:** If you are running BetterDB outside Docker (e.g., via `npx`), use `localhost` as the host and `6399` as the port for the Valkey target.
 
+<img width="1744" height="728" alt="image" src="https://github.com/user-attachments/assets/ff0fc69e-715b-45fb-92c6-169579caa923" />
+
+<img width="1379" height="198" alt="image" src="https://github.com/user-attachments/assets/bb14915a-8106-4038-a89c-a827433d0532" />
+
+
 ## Step 5: Run the Migration Analysis
 
 1. Navigate to the **Migration** section in BetterDB

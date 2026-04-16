@@ -76,6 +76,15 @@ docker exec redis-source redis-cli DBSIZE
 # Expected: (integer) 124
 
 docker exec redis-source redis-cli INFO keyspace
+
+# output
+27.0.0.1:6379> dbsize
+(integer) 37
+
+
+127.0.0.1:6379> INFO keyspace
+# Keyspace
+db0:keys=37,expires=15,avg_ttl=2327002,subexpiry=0
 ```
 
 ## Step 3: Open BetterDB
